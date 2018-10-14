@@ -1,2 +1,2 @@
 # mucitpark-python
-tekrar
+python
